@@ -1,8 +1,0 @@
-title: Ultimate Calculator
-description: 
-google_analytics: false
-show_downloads: true
-theme: jekyll-theme-cayman
-
-gems:
-	- jekyll-mentions
